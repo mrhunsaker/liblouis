@@ -76,6 +76,7 @@ display ; 23
 display : 25
 display / 256
 display ? 26
+display ? 26a
 display + 235
 display = 2356
 display ( 236
